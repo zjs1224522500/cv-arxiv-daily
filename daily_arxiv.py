@@ -180,7 +180,7 @@ if __name__ == "__main__":
     
     keywords = dict()
     keywords["LSM"]                = "LSM-Tree" + "OR" + "\"LSM Tree\""
-    keywords["KVS"]                = "KVS" + "AND" + "\"Key-Value Store\"" 
+    keywords["KVS"]                = "\"Key-Value Store\"" 
     keywords["PM-FS"]              = "\"Persistent Memory File System\""
 #    keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
 #    keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\""
