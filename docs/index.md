@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2021.11.03
+## Updated on 2021.11.04
 
 ## LSM
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2021-10-26**|**Endure: A Robust Tuning Paradigm for LSM Trees Under Workload Uncertainty**|Andy Huynh et.al.|[2110.13801v1](http://arxiv.org/abs/2110.13801v1)|null|
+|**2021-10-26**|**Endure: A Robust Tuning Paradigm for LSM Trees Under Workload Uncertainty**|Andy Huynh et.al.|[2110.13801v2](http://arxiv.org/abs/2110.13801v2)|null|
 |**2021-10-19**|**Using RDMA for Efficient Index Replication in LSM Key-Value Stores**|Michalis Vardoulakis et.al.|[2110.09918v1](http://arxiv.org/abs/2110.09918v1)|null|
 |**2021-09-27**|**Accelerating LSM-Tree with the Dentry Management of File System**|Yanpeng Hu et.al.|[2109.13142v2](http://arxiv.org/abs/2109.13142v2)|null|
 |**2021-09-12**|**Verifying Concurrent Multicopy Search Structures**|Nisarg Patel et.al.|[2109.05631v1](http://arxiv.org/abs/2109.05631v1)|null|
